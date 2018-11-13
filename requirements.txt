@@ -1,0 +1,10 @@
+pip==18.1
+pyOpenSSL==16.2.0
+xmltodict
+dicttoxml
+xlrd
+pdf417gen
+cchardet
+signxml
+pysftp
+num2words

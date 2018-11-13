@@ -1,0 +1,4 @@
+[submodule "VKYC/PERSONALIZACION_CH"]
+	path = VKYC/PERSONALIZACION_CH
+	url = git@github.com:VKYC/PERSONALIZACION_CH.git
+	branch = master
